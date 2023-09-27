@@ -1,0 +1,4 @@
+I'm on the way to become a fullstacked
+reading the stream
+
+whatever we will write in this file will get executed live in our local host server
